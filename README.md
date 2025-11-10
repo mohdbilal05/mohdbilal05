@@ -20,7 +20,7 @@ I specialize in **LLMs, RAG systems, Computer Vision, and Predictive Analytics**
 **RAG + LLM Web App** – Ask questions about any web page URL.  
 - Retrieves page content → embeds it → LLM answers questions  
 - Built with LangChain, OpenAI API & Streamlit  
-📁 [View Repository](https://github.com/mohdbilal05/AskURL)
+📁 [Live Demo](https://askurl-ai.streamlit.app/)
 
 ---
 
@@ -28,7 +28,7 @@ I specialize in **LLMs, RAG systems, Computer Vision, and Predictive Analytics**
 **Computer Vision App** – Detects vehicle damage using deep learning (PyTorch).  
 - Trained CNN for dent/scratch classification & localisation  
 - Deployed with Streamlit for real-time inspection  
-📁 [View Repository](https://github.com/mohdbilal05/Car_Damage_Detection)
+📁 [Live Demo](https://cardamagedetectionusingpytorch.streamlit.app/)
 
 
 ---
