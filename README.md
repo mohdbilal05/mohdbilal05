@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Mohd Bilal  
-### 💡 AI & Machine Learning Engineer | Turning Data & Models into Real-World Products  
+### 💡 Machine Learning Engineer | Turning Data & Models into Real-World Products  
 
 ---
 
