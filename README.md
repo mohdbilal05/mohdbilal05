@@ -30,19 +30,6 @@ I specialize in **LLMs, RAG systems, Computer Vision, and Predictive Analytics**
 - Deployed with Streamlit for real-time inspection  
 📁 [View Repository](https://github.com/mohdbilal05/Car_Damage_Detection)
 
----
-
-### 💳 [Credit Risk Modelling Using Classification](https://github.com/mohdbilal05/Credit_Risk_Modelling_Using_Classification)  
-**Financial Analytics Model** – Predicts borrower default risk.  
-- Data cleaning, feature engineering, class imbalance handling  
-- Compared Logistic Regression, Random Forest, and Gradient Boosting  
-
----
-
-### 🩺 [Healthcare Premium Prediction Using Regression](https://github.com/mohdbilal05/Healthcare_Premium_Prediction_Using_Regression)  
-**Regression Model** – Predicts health insurance premiums.  
-- Built an end-to-end ML pipeline for premium estimation  
-- Insights on key cost drivers (age, BMI, smoking status)  
 
 ---
 
