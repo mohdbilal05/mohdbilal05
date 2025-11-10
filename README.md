@@ -46,13 +46,6 @@ I specialize in **LLMs, RAG systems, Computer Vision, and Predictive Analytics**
 
 ---
 
-### 🏨 [Data Analysis – Hospitality Domain](https://github.com/mohdbilal05/Data_Analysis_Hospitality_Domain)  
-**Exploratory Data Analysis Project**  
-- Generated KPIs like Occupancy %, ADR, RevPAR for hotel management  
-- Delivered actionable insights to optimize room performance and pricing  
-
----
-
 ## 🧩 Tech Stack  
 
 | Area | Tools / Frameworks |
