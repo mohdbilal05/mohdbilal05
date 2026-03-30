@@ -15,19 +15,8 @@ I’m a results-driven **Data Analyst** with expertise in **SQL, Python, Power B
 
 ## 🌐 Portfolio  
 
-<a href="https://codebasics.io/portfolio/Mohd-Bilal" target="_blank">
-  <button style="
-    background-color: #4CAF50;
-    color: white;
-    padding: 12px 24px;
-    border: none;
-    border-radius: 8px;
-    font-size: 16px;
-    font-weight: 600;
-    cursor: pointer;">
-    🚀 Visit My Portfolio
-  </button>
-</a>
+🚀 Visit My Portfolio **[Visit My Portfolio](https://codebasics.io/portfolio/Mohd-Bilal)**
+
 
 ---
 
