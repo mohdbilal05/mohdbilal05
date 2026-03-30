@@ -15,7 +15,7 @@ I’m a results-driven **Data Analyst** with expertise in **SQL, Python, Power B
 
 ## 🌐 Portfolio  
 
-🚀 Visit My Portfolio **[Visit My Portfolio](https://codebasics.io/portfolio/Mohd-Bilal)**
+🚀 **[Visit My Portfolio](https://codebasics.io/portfolio/Mohd-Bilal)**
 
 
 ---
