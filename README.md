@@ -32,18 +32,6 @@ I’m a results-driven **Data Analyst** with expertise in **SQL, Python, Power B
 ---
 
 ## 🧰 Featured Projects  
-
-### 📊 Hospitality Revenue & Performance Analysis  
-**Python | EDA | Statistical Analysis**  
-🔗 [GitHub Repository](https://github.com/mohdbilal05/Data_Analysis_Hospitality_Domain)  
-
-- Analyzed **100K+ hospitality records** to uncover trends in revenue, occupancy, and customer segments  
-- Performed **data cleaning, EDA, and statistical analysis**  
-- Identified key drivers impacting profitability and operations  
-- Delivered actionable insights for **revenue optimization**  
-
----
-
 ### 📊 Overall Business Insights Dashboard  
 **Power BI | DAX | Power Query | MySQL**  
 
@@ -56,13 +44,14 @@ I’m a results-driven **Data Analyst** with expertise in **SQL, Python, Power B
 
 ---
 
-### 💳 Credit Risk Modelling  
-**Python | Classification | Machine Learning**  
-🔗 [GitHub Repository](https://github.com/mohdbilal05/Credit_Risk_Modelling_Using_Classification)  
+### 📊 Hospitality Revenue & Performance Analysis  
+**Python | EDA | Statistical Analysis**  
+🔗 [GitHub Repository](https://github.com/mohdbilal05/Data_Analysis_Hospitality_Domain)  
 
-- Built classification models to predict credit risk  
-- Applied feature engineering and model evaluation  
-- Delivered insights for **risk assessment and decision-making**  
+- Analyzed **100K+ hospitality records** to uncover trends in revenue, occupancy, and customer segments  
+- Performed **data cleaning, EDA, and statistical analysis**  
+- Identified key drivers impacting profitability and operations  
+- Delivered actionable insights for **revenue optimization**    
 
 ---
 
