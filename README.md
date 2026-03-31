@@ -1,56 +1,55 @@
 # 👋 Hi, I'm Mohd Bilal  
-### 📊 Data Analyst | Turning Data into Actionable Business Insights  
-
+### 📊 Data Analyst | 📈 Data Scientist | Turning Data into Actionable Insights  
 ---
 
 ## 🚀 About Me  
-I’m a results-driven **Data Analyst** with expertise in **SQL, Python, Power BI, and Statistical Analysis**, focused on solving real-world business problems through data.  
+I am a results-driven **Data Analyst and Data Scientist** with strong expertise in **SQL, Python, Power BI, and Machine Learning**, focused on solving real-world business problems through data.  
 
-- 📊 Skilled in **EDA, Data Visualization, KPI Reporting & Forecasting**  
-- 🧠 Strong foundation in **Machine Learning & Predictive Analytics**  
-- 📈 Experienced in analyzing **100K+ datasets and $3B+ business data**  
-- ⚡ Passionate about **data-driven decision-making and business impact**  
+- 📊 Skilled in **Exploratory Data Analysis (EDA), Data Visualization, KPI Reporting, and Forecasting**  
+- 🤖 Experienced in **Machine Learning, Predictive Modeling, and Statistical Analysis**  
+- 📈 Proven ability to analyze **large-scale datasets (100K+ records, multi-billion-dollar business data)**  
+- ⚡ Passionate about transforming data into **strategic insights and predictive solutions**  
 
 ---
 
 ## 🌐 Portfolio  
 
-🚀 **[Visit My Portfolio](https://codebasics.io/portfolio/Mohd-Bilal)**
-
+🚀 **[Visit My Portfolio](https://codebasics.io/portfolio/Mohd-Bilal)**  
 
 ---
 
 ## 🧰 Featured Projects  
-### 📊 Overall Business Insights Dashboard  
-**Power BI | DAX | Power Query | MySQL**  
+
+### 📊 Business Insights Dashboard  
+**Power BI | SQL | DAX | Data Modeling**  
 
 🔗 **[Live Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNWJiNzJlNmEtZDMzZi00OWMzLWE2MTMtYzEwYTMyZTU5MzFmIiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)**  
 
-- Built dashboard analyzing **$3.74B+ sales data**  
-- Tracked KPIs: **GM% (38.08%), Net Profit (-13.98%), Forecast Accuracy (81.17%)**  
-- Identified key segments: **Notebooks (~$1.58B), APAC (~$1.92B)**  
-- Improved reporting efficiency by **25%**  
-
----
-
-### 📊 Hospitality Revenue & Performance Analysis  
-**Python | EDA | Statistical Analysis**  
-🔗 [GitHub Repository](https://github.com/mohdbilal05/Data_Analysis_Hospitality_Domain)  
-
-- Analyzed **100K+ hospitality records** to uncover trends in revenue, occupancy, and customer segments  
-- Performed **data cleaning, EDA, and statistical analysis**  
-- Identified key drivers impacting profitability and operations  
-- Delivered actionable insights for **revenue optimization**    
+- Designed and developed an interactive dashboard analyzing **$3.74B+ sales data**  
+- Monitored KPIs such as **Gross Margin, Net Profit, and Forecast Accuracy**  
+- Identified key revenue drivers across **products and regions**  
+- Improved reporting efficiency and decision-making speed by **25%**  
 
 ---
 
 ### 🏥 Healthcare Premium Prediction  
-**Python | Regression | Statistical Modeling**  
-🔗 [GitHub Repository](https://github.com/mohdbilal05/Healthcare_Premium_Prediction_Using_Regression)  
+**Python | Regression | Machine Learning**  
+🔗 [GitHub Repository](https://github.com/mohdbilal05/Healthcare_Premium_Prediction_Using_Regression)
+🚀  [Live Demo](https://healthpremiumpredictionusingregression.streamlit.app/)) 
 
-- Developed regression models to predict insurance premiums  
-- Performed EDA to identify cost-driving factors  
-- Supported **pricing strategy and risk analysis**  
+- Built regression models to predict **insurance premiums**  
+- Performed **EDA and feature engineering** to identify cost drivers  
+- Applied statistical modeling to support **risk assessment and pricing strategies**  
+
+---
+
+### 💳 Credit Risk Classification  
+**Python | Classification | Machine Learning**  
+
+- Developed classification models to assess **credit risk probability**  
+- Applied **feature selection, model tuning, and evaluation metrics**  
+- Enabled data-driven decision-making for **risk management and lending strategies**  
+- Deployed as an interactive **Streamlit application**  
 
 ---
 
@@ -61,14 +60,19 @@ I’m a results-driven **Data Analyst** with expertise in **SQL, Python, Power B
 | 🐍 Programming | Python (Pandas, NumPy), SQL |
 | 📊 Data Analysis | EDA, Data Cleaning, Statistical Analysis |
 | 📈 Visualization | Power BI, Matplotlib, Seaborn |
-| 🤖 Machine Learning | Regression, Classification |
+| 🤖 Machine Learning | Regression, Classification, Model Evaluation |
 | 🗃️ Databases | MySQL, PostgreSQL |
-| ⚙️ Tools | Power Query, DAX, Excel |
+| ⚙️ Tools | Power Query, DAX, Excel, Streamlit |
 
 ---
 
 ## 🎯 Career Focus  
-📍 **Goal:** Data Analyst / Business Analyst role focused on delivering insights and enabling data-driven decision-making.  
+
+I am seeking opportunities as a **Data Analyst or Data Scientist**, where I can:  
+
+- Deliver **actionable insights through data analysis and visualization**  
+- Build **predictive models to solve business problems**  
+- Support **data-driven decision-making at scale**  
 
 ---
 
@@ -80,4 +84,4 @@ I’m a results-driven **Data Analyst** with expertise in **SQL, Python, Power B
 
 ---
 
-### ⭐ If you like my projects, consider giving them a star!
+### ⭐ If you find my work valuable, feel free to explore and support my projects!
