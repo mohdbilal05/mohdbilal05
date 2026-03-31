@@ -33,22 +33,13 @@ I am a results-driven **Data Analyst and Data Scientist** with strong expertise 
 ---
 
 ### 🏥 Healthcare Premium Prediction  
-**Python | Regression | Machine Learning**  🚀  [Live Demo](https://healthpremiumpredictionusingregression.streamlit.app/)) 
+**Python | Regression | Machine Learning**   
 🔗 [GitHub Repository](https://github.com/mohdbilal05/Healthcare_Premium_Prediction_Using_Regression)
+🚀  [Live Demo](https://healthpremiumpredictionusingregression.streamlit.app/))
 
 - Built regression models to predict **insurance premiums**  
 - Performed **EDA and feature engineering** to identify cost drivers  
 - Applied statistical modeling to support **risk assessment and pricing strategies**  
-
----
-
-### 💳 Credit Risk Classification  
-**Python | Classification | Machine Learning**  
-
-- Developed classification models to assess **credit risk probability**  
-- Applied **feature selection, model tuning, and evaluation metrics**  
-- Enabled data-driven decision-making for **risk management and lending strategies**  
-- Deployed as an interactive **Streamlit application**  
 
 ---
 
