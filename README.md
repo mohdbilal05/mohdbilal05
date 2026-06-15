@@ -70,7 +70,7 @@ I am seeking opportunities as a **Data Analyst or Data Scientist**, where I can:
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/bilal-mohd)  
 - 🌐 [GitHub](https://github.com/mohdbilal05)  
-- ✉️ Email: **mohd.bilal.connect@gmail.com**  
+- ✉️ Email: **mohdbilal3109@gmail.com**  
 
 ---
 
